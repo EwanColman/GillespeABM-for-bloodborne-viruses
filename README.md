@@ -1,5 +1,5 @@
 This is the Repo for my implementation of an agent-based model that uses the Gillespe algorithm. It's for a project on transmissible bloodborne diseases in people who inject drugs.
-![HIV](https://github.com/user-attachments/assets/7921586d-8df0-4740-825a-c9337615d5b0)
+<img src="https://github.com/user-attachments/assets/7921586d-8df0-4740-825a-c9337615d5b0" width="200"/>
 ![HCV](https://github.com/user-attachments/assets/3d3391d7-9e9c-47a9-aa21-c5f8fef70da3)
 
 Read the code explainer written in Jupyter notebook
